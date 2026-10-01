@@ -31,22 +31,25 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
 
-<h3 align="left"> Contact & Socials 🌐 </h3>
+<div align="center">
+  <h3> Contact & Socials 🌐 </h3>
 
-<p align="left">
-  <a href="mailto:suzanaisiss@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/suzana-isis-reis-lemos-6a2835352" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-  </a>
-  <img src="https://skillicons.dev/icons?i=android" alt="Android" />
-</p>
+  <p>
+    <a href="mailto:suzanaisiss@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/suzana-isis-reis-lemos-6a2835352" target="_blank" rel="noopener noreferrer">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+    </a>
+    <img src="https://skillicons.dev/icons?i=android" alt="Android" />
+  </p>
 
-<h3 align="left">Languages & Tools </h3>
+  <h3>Languages & Tools 🛠️</h3>
 
-<p align="left"><img src="https://skillicons.dev/icons?i=python,java,mysql,css,html,javascript,git,github,vscode,android&perline=16" alt="Tech Stack" /> </p>
-
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,java,mysql,css,html,javascript,git,github,vscode,android&perline=16" alt="Tech Stack" />
+  </p>
+</div>
 <br/>
 <br/>
 
