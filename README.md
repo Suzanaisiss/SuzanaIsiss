@@ -12,19 +12,35 @@
 </div>
 
 #
-**⚡Sobre mim:**
+<div align="center">
 
+<h3>⚡ Sobre mim:</h3>
+
+<p>
 Atualmente no 4º semestre de Ciência da Computação, sou movida pela curiosidade de entender o "porquê" por trás das tecnologias. Mais do que apenas escrever linhas de código, vejo no desenvolvimento de software a ferramenta ideal para transformar ideias e problemas complexos em soluções concretas e eficientes.
+</p>
 
-🚀 **Meu Foco Atual:**
-- Construindo uma base sólida em **Desenvolvimento Web Full Stack**;
-- Criação de projetos práticos para consolidar conhecimentos em **Web e novas tecnologias**;
-- **Boas** práticas de código, testes de arquitetura e resolução eficiente de **problemas**.
+<h3>🚀 Meu Foco Atual:</h3>
 
-💡 **Como eu aprendo e desenvolvo:**
-Não me contento em apenas "fazer o código rodar". Meu processo envolve colocar a mão na massa, testar arquiteturas, investigar erros e entender a lógica de cada ferramenta. 
+<p>
+• Construindo uma base sólida em <b>Desenvolvimento Web Full Stack</b><br>
 
+• Criação de projetos práticos para consolidar conhecimentos em <b>Web e novas tecnologias</b><br>
+
+<b>• Boas práticas</b> de código, testes de arquitetura e resolução eficiente de <b>problemas</b>
+</p>
+
+<h3>💡 Como eu aprendo e desenvolvo:</h3>
+
+<p>
+Não me contento em apenas "fazer o código rodar". Meu processo envolve colocar a mão na massa, testar arquiteturas, investigar erros e entender a lógica de cada ferramenta.
+</p>
+
+<p>
 Neste GitHub, você encontrará a documentação prática da minha evolução: projetos estruturados, experimentos e soluções que demonstram minha capacidade de aprender e resolver problemas de forma autônoma.
+</p>
+
+</div>
  
  
 #
