@@ -34,10 +34,10 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 <h3 align="left"> Contact & Socials 🌐 </h3>
 
 <p align="left">
-  <a href="mailto:suzanaisiss@gmail.com" target="_blank">
+  <a href="mailto:suzanaisiss@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/suzana-isis-reis-lemos-6a2835352" target="_blank">
+  <a href="https://www.linkedin.com/in/suzana-isis-reis-lemos-6a2835352" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <img src="https://skillicons.dev/icons?i=android" alt="Android" />
