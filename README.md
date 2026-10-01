@@ -50,10 +50,14 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
     <img src="https://skillicons.dev/icons?i=python,java,mysql,css,html,javascript,git,github,vscode,android&perline=16" alt="Tech Stack" />
   </p>
 </div>
+
+#
+
+
 <br/>
 <br/>
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <p align="center">
   <img 
