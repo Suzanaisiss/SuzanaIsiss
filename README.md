@@ -83,8 +83,8 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
   />
   <img 
     height="220" 
-    alt="Stack - Top Languages" 
-    src="https://github-readme-stats-eight-alpha-80.vercel.app/api/top-langs/?username=suzanaisiss&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+    alt="Languages - Top Languages" 
+    src="https://github-readme-stats-eight-alpha-80.vercel.app/api/top-langs/?username=suzanaisiss&layout=compact&custom_title=Languages&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
 </p>
 
@@ -97,3 +97,6 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake.svg">
 </picture>
 
+  <p align="center" style="font-family: monospace; font-size: 10px; color: #8b949e;">
+    Last update: october/2026
+  </p>
