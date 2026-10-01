@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <video src="src/0930 (2)(1).mp4" width="900" controls autoplay loop muted></video>
+  <img src="src/gif_def.gif" width="900" controls autoplay loop muted></video>
 </div>
 
 #
