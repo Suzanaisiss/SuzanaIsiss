@@ -108,12 +108,4 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 
 </p>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake.svg">
-</picture>
 
-  <p align="center" style="font-family: monospace; font-size: 10px; color: #8b949e;">
-    Last update: october/2026
-  </p>
