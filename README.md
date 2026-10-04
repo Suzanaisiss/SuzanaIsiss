@@ -70,21 +70,20 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 </div>
 
 #
-
-<div align="left">
+<!-- Título Centralizado -->
+<div align="center">
   <h3>Experiência de trabalho</h3>
+</div>
 
-  <img src="src/imgs/quali.png" align="left" width="80" style="margin-right: 15px; border-radius: 4px;">
+<!-- Conteúdo com Imagem e Texto Alinhados -->
+<div align="left">
+  <img src="src/imgs/quali.png" align="left" width="170" style="margin-right: 15px; border-radius: 4px;">
 
   <div style="overflow: hidden;">
     <b>Estagiário Voluntário</b><br>
     <a href="https://www.qualivida.com.br/">Qualivida</a> • Voluntário<br>
     Linguagens & Tecnologias: <code>JavaScript</code>, <code>Node</code>, <code>HTML</code>, <code>CSS</code>, <code>Java</code>, <code>Excel</code><br>
     Duração: 6 meses
-
-</div>
-<br clear="left">
-
 <br/>
 
 #
