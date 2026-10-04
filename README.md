@@ -8,7 +8,7 @@
 
 
 <div align="center">
-  <img src="src/gif_def.gif" width="900" controls autoplay loop muted></video>
+  <img src="src/imgs/gif_def.gif" width="900" controls autoplay loop muted></video>
 </div>
 
 #
@@ -42,7 +42,6 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 
 </div>
  
- 
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -72,7 +71,23 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 
 #
 
+<div align="left">
+  <h3>Experiência de trabalho</h3>
 
+  <img src="src/imgs/quali.png" align="left" width="80" style="margin-right: 15px; border-radius: 4px;">
+
+  <div style="overflow: hidden;">
+    <b>Estagiário Voluntário</b><br>
+    <a href="https://www.qualivida.com.br/">Qualivida</a> • Voluntário<br>
+    Linguagens & Tecnologias: <code>JavaScript</code>, <code>Node</code>, <code>HTML</code>, <code>CSS</code>, <code>Java</code>, <code>Excel</code><br>
+    Duração: 6 meses
+
+</div>
+<br clear="left">
+
+<br/>
+
+#
 <br/>
 <br/>
 
