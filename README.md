@@ -75,21 +75,18 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
   <h3>Experiência de trabalho</h3>
 </div>
 
-<table>
-  <tr valign="top">
-    <td width="170">
-      <img src="src/imgs/quali.png" width="170" style="border-radius: 4px;">
-    </td>
-    <td>
-      <b>Estagiário Voluntário</b><br>
-      <a href="https://www.qualivida.com.br/">Qualivida</a> • Voluntário<br>
-      Linguagens & Tecnologias: <code>JavaScript</code>, <code>Node</code>, <code>HTML</code>, <code>CSS</code>, <code>Java</code>, <code>Excel</code><br>
-      Duração: 6 meses
-    </td>
-  </tr>
-</table>
+<div>
+  <div style="display: inline-block; width: 170px; vertical-align: middle;">
+    <img src="src/imgs/quali.png" width="170" style="border-radius: 4px;">
+  </div>
 
-<br/>
+  <div style="display: inline-block; vertical-align: middle;">
+    <b>Estagiário Voluntário</b><br>
+    <a href="https://www.qualivida.com.br/">Qualivida</a> • Voluntário<br>
+    Linguagens & Tecnologias: <code>JavaScript</code>, <code>Node</code>, <code>HTML</code>, <code>CSS</code>, <code>Java</code>, <code>Excel</code><br>
+    Duração: 6 meses
+  </div>
+</div>
 
 #
 <!-- Seção: GitHub Stats -->
