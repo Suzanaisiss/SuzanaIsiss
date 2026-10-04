@@ -43,8 +43,7 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 </div>
  
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
+#
 
 
 <img align="right" alt="" height="190px" src="./src/edgerunners.gif">
@@ -71,25 +70,29 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 
 #
 <!-- Título Centralizado -->
+<!-- Seção: Experiência de Trabalho -->
 <div align="center">
   <h3>Experiência de trabalho</h3>
 </div>
 
-<!-- Conteúdo com Imagem e Texto Alinhados -->
-<div align="left">
-  <img src="src/imgs/quali.png" align="left" width="170" style="margin-right: 15px; border-radius: 4px;">
+<table>
+  <tr valign="top">
+    <td width="170">
+      <img src="src/imgs/quali.png" width="170" style="border-radius: 4px;">
+    </td>
+    <td>
+      <b>Estagiário Voluntário</b><br>
+      <a href="https://www.qualivida.com.br/">Qualivida</a> • Voluntário<br>
+      Linguagens & Tecnologias: <code>JavaScript</code>, <code>Node</code>, <code>HTML</code>, <code>CSS</code>, <code>Java</code>, <code>Excel</code><br>
+      Duração: 6 meses
+    </td>
+  </tr>
+</table>
 
-  <div style="overflow: hidden;">
-    <b>Estagiário Voluntário</b><br>
-    <a href="https://www.qualivida.com.br/">Qualivida</a> • Voluntário<br>
-    Linguagens & Tecnologias: <code>JavaScript</code>, <code>Node</code>, <code>HTML</code>, <code>CSS</code>, <code>Java</code>, <code>Excel</code><br>
-    Duração: 6 meses
 <br/>
 
 #
-<br/>
-<br/>
-
+<!-- Seção: GitHub Stats -->
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
@@ -106,6 +109,16 @@ Neste GitHub, você encontrará a documentação prática da minha evolução: p
 </p>
 
 
-</p>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/suzanaisiss/suzanaisiss/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 
+  <p align="center" style="font-family: monospace; font-size: 10px; color: #8b949e;">
+    Last update: october/2026
+  </p>
